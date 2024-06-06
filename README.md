@@ -7,8 +7,7 @@ I'm a passionate software developer and final-year MCA student with a strong fou
 - 👀 **Interests:** I’m deeply interested in software development, web technologies, data analysis, and machine learning. I enjoy working on projects that challenge me to learn new technologies and improve my skills.
 - 🌱 **Currently Learning:** I'm currently expanding my knowledge in advanced Python programming, Django for web development, and machine learning techniques.
 - 💞️ **Looking to Collaborate On:** Open source projects, innovative software solutions, and any project where I can contribute and learn. I'm particularly interested in collaborative environments that foster creativity and technical growth.
-- 📫 **How to Reach Me:** 
-  - [LinkedIn](https://www.linkedin.com/in/anjana-joseph-6b3900262/)
+- 📫 **How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/anjana-joseph-6b3900262/)
 - 😄 **Pronouns:** She/Her
 - ⚡ **Fun Fact:** I have a background in physics and love solving complex problems with creative solutions.
 
